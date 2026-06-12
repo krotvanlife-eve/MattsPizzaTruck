@@ -28,7 +28,9 @@ main {
   text-align: center;
 }
 
-.mybgcolor {background-color:#fff37a; } 
+mybgcolor {
+  background-color:#fff37a; 
+} 
 
 footer {
     text-align: center;
