@@ -6,17 +6,13 @@
     <title>Matt's Pizza Truck</title>
     <link rel="stylesheet" href="style.css">
 
-<div class="page-container">
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/WbLbxvF3/Matts-Pizza-Truck-2.jpg' border='0' alt='Matts-Pizza-Truck-2' class="left-image"></a>
+
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/WbLbxvF3/Matts-Pizza-Truck-2.jpg' border='0' alt='Matts-Pizza-Truck-2'></a>
   <div class="content-text">
-  </div>
-</div>
-
-
-
-
 
 </head>
+
+
 <body>
 
 
@@ -24,16 +20,15 @@
         <h1>Matt's Pizza Truck Calendar</h1>
         <br>
         <br>
-        <a href='https://postimg.cc/N2w8fCBj' target='_blank'><img src='https://i.postimg.cc/N2w8fCBj/Eve-K77.jpg' border='0' alt='Eve-K77'></a>
-       <br>
+        <br>
         <br>
         <p>Made by Eve Krot.</p>
     </header>
 
     <main>
         <section>
-            <h2>About Me</h2>
-            <p>Teacher, Marine Biologist, Entrepreneur, CEO of Krot Van Life</p>
+            <h2></h2>
+            <p></p>
         </section>
     </main>
 
