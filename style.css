@@ -15,12 +15,12 @@ header {
   padding: 2rem;
 }
 
-.nav {
+nav {
   position: relative;
   text-align: center;
 }
 
-.nav ul {
+nav ul {
   padding: 0;
   font-size: 0;
   overflow: hidden;
@@ -28,10 +28,10 @@ header {
   border-radius: 30px;
   border: 2px solid #ace;
 }
-.nav li {
+nav li {
   display: inline-block;
 }
-.nav a {
+nav a {
   font-size: 1rem;
   position: relative;
   display: inline-block;
@@ -40,8 +40,8 @@ header {
   color: #555;
   padding: 13px 25px 13px 10px;
 }
-.nav a:after,
-.nav a:before {
+nav a:after,
+nav a:before {
   position: absolute;
   content: "";
   height: 0;
@@ -53,7 +53,7 @@ header {
   border-right: 0 !important;
   border-left-color: transparent !important;
 }
-.nav a:before {
+nav a:before {
   left: -26px;
   border: 24px solid #555;
 }
@@ -72,7 +72,7 @@ nav a:hover:after {
   border-color: #cef;
 }
 
-.logo {
+logo {
   position: absolute;
   width: 400px;
   height: 400px;
@@ -110,3 +110,4 @@ footer {
   background-color: #fff37a;
   color: #000000;
 }
+
