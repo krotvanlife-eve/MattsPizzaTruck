@@ -18,13 +18,22 @@ body {
   margin: 0;
 }
 
-.logo {
+logo {
   width: 400px;
   height: 400px;
   position: absolute;
   top: 0;
   left: 0;
 }
+
+rectangle-1 {
+	width: 338px;
+	height: 137px;
+	padding: 8px;
+	background: #FCCE54;
+	border: 1px solid #FCCE54;
+}
+
 main {
     max-width: 800px;
     margin: 2rem auto;
