@@ -1,0 +1,38 @@
+body {
+  width: 463px;
+  height: 45px;
+  color: #000000;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+
+header {
+  width: 303px;
+  height: 45px;
+  color: #000000;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+
+main {
+  width: 303px;
+  height: 45px;
+  color: #000000;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+
+.mybgcolor {background-color:#fff37a; } 
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #000000;
+}
