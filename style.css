@@ -8,6 +8,25 @@ body {
   text-align: center;
 }
 
+rectangle-1 {
+  width: 181px;
+  height: 137px;
+  padding: 8px;
+  background: #FCCE54;
+  border: 1px solid #FCCE54;
+}
+business-contact-information {
+  width: 172px;
+  height: 86px;
+  color: #000000;
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.3;
+  text-align: left;
+  vertical-align: top;
+}
+
 header {
   width: 303px;
   height: 45px;
@@ -16,6 +35,19 @@ header {
   font-weight: 700;
   font-size: 32px;
   text-align: center;
+}
+
+breadcrumb-menu-2 {
+	width: 788px;
+	height: 35px;
+	background: #FCCE54;
+	border: 4px solid #2F3A75;
+	color: #000000;
+	font-family: "Montserrat";
+	font-weight: 700;
+	font-size: 32px;
+	line-height: 1;
+	text-align: center;
 }
 
 main {
