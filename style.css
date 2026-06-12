@@ -6,6 +6,18 @@ body {
     color: black;
 }
 
+body {
+  position: relative;
+  margin: 0;
+}
+
+.logo {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 header {
     background-color: #fff37a;
     color: black;
